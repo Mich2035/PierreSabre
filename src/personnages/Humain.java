@@ -21,7 +21,7 @@ public class Humain {
 	}
 
 	public void parler(String texte) {
-		System.out.println("(prof)-  " + texte + " ");
+		System.out.println("("+this.nom+")-" + texte + " ");
 	}
 
 	public void direBonjour() {

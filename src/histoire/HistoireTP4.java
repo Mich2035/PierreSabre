@@ -1,6 +1,6 @@
 package histoire;
 
-import personnages.Humain;
+import personnages.*;
 
 public class HistoireTP4 {
 	public static void main(String[] args) {
